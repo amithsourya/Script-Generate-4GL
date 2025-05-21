@@ -13,7 +13,7 @@ base_model:
 
 ### Model Description
 
-Generated 4GL Scripts from english prompts
+Generate 4GL Scripts from english prompts
 
 - **Developed by:** Amith Sourya Sadineni
 - **Model type:** Text Generation
