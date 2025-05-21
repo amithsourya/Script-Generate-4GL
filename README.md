@@ -47,7 +47,6 @@ print(outputs[0]["generated_text"])
 Carbon emissions can be estimated using the [Machine Learning Impact calculator](https://mlco2.github.io/impact#compute) presented in [Lacoste et al. (2019)](https://arxiv.org/abs/1910.09700).
 
 - **Hardware Type:** T4 GPU
-- **Hours used:** 0H:23M
 
 ## Example
 
