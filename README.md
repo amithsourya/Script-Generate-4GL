@@ -1,16 +1,3 @@
----
-library_name: transformers
-tags:
-- OUAF
-- Oracle
-- 4GL
-license: mit
-language:
-- en
-base_model:
-- meta-llama/Llama-3.2-1B-Instruct
----
-
 ### Model Description
 
 Generate 4GL Scripts from english prompts
@@ -21,7 +8,7 @@ Generate 4GL Scripts from english prompts
 - **License:** MIT
 - **Finetuned from model:** meta-llama/Llama-3.2-1B-Instruct
 
-### Model Sources [optional]
+### Model Sources
 
 <!-- Provide the basic links for the model. -->
 
