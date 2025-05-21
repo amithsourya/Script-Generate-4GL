@@ -61,3 +61,10 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 
 - **Hardware Type:** T4 GPU
 - **Hours used:** 0H:23M
+
+## Example
+
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/682b328fb814376780257a17/aaz_ESL50FOX-KLK4Xb8f.png)
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/682b328fb814376780257a17/X4ZMrUHPVEy7-zI0rm5LL.png)
