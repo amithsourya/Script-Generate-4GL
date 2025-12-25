@@ -1,7 +1,5 @@
 ### Model Description
 
-Trained a LLM to generate 4GL Scripts from english prompts
-
 - **Developed by:** Amith Sourya Sadineni
 - **Model type:** Text Generation
 - **Language(s):** Python
